@@ -2,6 +2,8 @@
 //  сколько чисел больше 0 ввёл пользователь.
 
 
+
+
 Console.Write("Введите числа через запятую: ");
 int[] numbers = StringToNum(Console.ReadLine());
 PrintArray(numbers);
